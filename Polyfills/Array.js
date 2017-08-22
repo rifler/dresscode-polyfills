@@ -1,5 +1,5 @@
 //#label includes
-//#require Object.js::is
+//#include Object.js::is
 if (!Array.prototype.includes) {
     Array.prototype.includes = function (elem) {
         var fromIndex = arguments.length > 1 ? arguments[1] : 0;

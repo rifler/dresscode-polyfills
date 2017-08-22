@@ -42,7 +42,7 @@ if (!Object.keys) {
 //#endlabel keys
 
 //#label entries
-//#require ::keys
+//#include ::keys
 if (!Object.entries) {
     Object.entries = function (obj) {
         var keys = Object.keys(obj);
