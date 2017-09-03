@@ -1,5 +1,5 @@
 {
-  "name": "dresscode-polyfills",
+  "name": "dresscode-ponyfills",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rifler/dresscode-polyfills.git"
+    "url": "git+ssh://git@github.com/rifler/dresscode-ponyfills.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/rifler/dresscode-polyfills#readme"
+  "homepage": "https://github.com/rifler/dresscode-ponyfills#readme"
 }
